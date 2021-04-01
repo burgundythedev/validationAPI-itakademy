@@ -1,6 +1,6 @@
 # validationAPI-itakademy
 
-# Laravel: Crétation D'API: Olivier Bourgogne
+# Laravel: Création D'API: Olivier Bourgogne
 
 
 Bonjour Vincent,
@@ -28,7 +28,7 @@ Bonjour Vincent,
 
 
 
-Je n'ai pas réussi à faire le "filter" malgré quelques tentatives.
+
 
 Merci, 
 
